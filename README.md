@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SZX-510
 - 👀 I’m interested in BMS.
-- 🌱 I’m currently learning In-vehicle embedded systems
+- 🌱 I’m currently learning In-vehicle embedded systems, and I'm working on constructing the AUTOSAR architecture.
 - 💞️ I’m looking to collaborate with my colleagues
 - 📫 How to reach me szxcnhb@foxmail.com
 - 😄 Pronouns
